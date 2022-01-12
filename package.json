@@ -3,10 +3,12 @@
   "version": "1.1.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://Vova-fil.github.io/goit-js-hw-09-01",
+
+  "homepage": "https://Vova-fil.github.io/goit-js-hw-09-02",
+
   "scripts": {
     "dev": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /goit-js-hw-09-01/"
+    "build": "parcel build src/*.html --public-url /goit-js-hw-09-02/"
   },
   "repository": {
     "type": "git",
@@ -27,6 +29,7 @@
   },
   "dependencies": {
     "flatpickr": "^4.6.9",
+    "nodemon": "^2.0.15",
     "notiflix": "^3.2.2"
   }
 }
